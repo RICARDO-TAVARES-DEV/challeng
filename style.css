@@ -2,12 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
+}
+
+body{
+    width: 100rem;
+    background-image: url(./imagens/fundo\ desafio.png);
+    background-repeat: no-repeat;
+}
+
 }
 
 .principal {
     border: red 2px solid;
-   
-}
+    
 
 .apresentacao1 {
     border: rgb(0, 255, 0) 2px solid;
